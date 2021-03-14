@@ -170,7 +170,7 @@ async function downloadOffline() {
       resources.push(resourceKey);
     }
   }
-  return contentCache.addAll(resources);
+  //return contentCache.addAll(resources);
 }
 
 // Attempt to download the resource online before falling back to
