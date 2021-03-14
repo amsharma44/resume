@@ -7,10 +7,10 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/lib/assets/dupleIT.png": "4a494a37a71d9506c953cec159d35b11",
-"assets/lib/assets/football_district_bronze.png": "709970ae57f8a2b78c7f7ab47f9206e5",
+
 "assets/lib/assets/profile_picture.jpeg": "01a9883213714bf8688aec13b20a4096",
 "assets/lib/assets/toastmaster.png": "f868fe7780e1c6db0e499c7cf8341f9b",
-"assets/lib/assets/toastmaster_participation.png": "0dbf332dae7c7fd124b27523239a3048",
+
 "assets/lib/assets/vs_computers.png": "2312903a54e911b645fc5c7f9055a49c",
 "assets/NOTICES": "667d6d7611779d12b8702d51d71799ff",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
